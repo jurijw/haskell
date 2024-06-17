@@ -1,0 +1,2 @@
+# Learning Haskell
+This repository's primary purpose is to help me learn Haskell. It contains examples of Haskell's syntax and structure, which should serve for future reference. Furthermore, it contains solutions to exercises of Philipp Hagenlocher series on Haskell, which I am using to broach the topic of functional programming.
